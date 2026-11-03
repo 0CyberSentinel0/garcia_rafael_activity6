@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Rafael Andrew Paul L. Garcia
+Handle: CyberSentinel
+Start Time: 2026-11-03 16:40:11.904282
+End Time: 2026-11-03 16:41:18.951157
+Duration (minutes): 1.12
+Score: 10/10
+Rating: EXPERT
+---- Threat Logs ----
+Threat: RDP Brute Force Attack
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMB Ransomware Attack
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTPS Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.144 on port
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMTP Phishing Campaign
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: Telnet Credential Theft
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.10 on port
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: FTP Credential Sniffing
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
+-------------------
+===================================
